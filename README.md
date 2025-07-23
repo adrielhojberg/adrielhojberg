@@ -1,14 +1,10 @@
-### Hi there 👋 my name is Adriel
+Hi, I'm Adriel 👋
+A Backend Engineer passionate about building the strong, reliable foundations that power great applications.
 
-I started my QA career while I was studying to become a developer and had an internship opportunity at a local company, after I started working as a QA I had the opportunity to take my knowledge to a new company and started doing more complex testing work.
+With two years of dedicated backend experience, I've focused on implementing scalable APIs, managing databases, and ensuring systems are both efficient and secure. My roots in QA have given me a unique, quality-first mindset—I believe in building systems that are not just functional, but also resilient and easily testable from the ground up.
 
-Thanks to this and to the people I got to know along the way I found a passion that I didn't know I had for assuring quality.
-With this newfound passion I started expanding my skills rather quickly in this, for me, new world. I started working on automating solutions with different frameworks,
-webdriverIO and Selenium being the main ones, I'm also working on API testing and contract testing, hopefully I will expand my skills to performance and load testing as well.
+I'm currently focused on mastering the fundamentals of backend development, with deep dives into API implementation, PostgreSQL, and the infrastructure concepts behind event-driven architecture.
 
-I’m currently learning about Shift Left testing and all that entails, working on new automation testing frameworks (UI, API, Contract, Performance), CICD, among other things.
+💬 I'm always open to discussing technology, collaborating on interesting problems, or helping others find solutions.
 
-💬 Ask me anything, I always like helping find solutions to issues, I'm also very passionate about learning new things.
-
-📫 How to reach me: https://www.linkedin.com/in/adriel-hojberg-0a91291b9/
-
+📫 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/adriel-hojberg-0a91291b9/
